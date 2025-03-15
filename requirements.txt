@@ -1,0 +1,9 @@
+
+statsmodels==0.14.4
+missingno==0.5.2
+pandas
+numpy
+matplotlib
+plotly
+datetime
+scikit-learn
