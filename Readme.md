@@ -1,4 +1,5 @@
 ## Análisis de Datos sobre Netflix
+Ir al archivo .ipynb para observar el resultado
 Se utilizó una base de Datos disponible en Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
 Tiene información básica de la película
 
